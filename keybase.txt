@@ -1,1 +1,53 @@
 https://keybase.io/mamay
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://alexander.mamay.su
+  * I am mamay (https://keybase.io/mamay) on keybase.
+  * I have a public key ASAZ4-N69Wvf20Pew3g1r9vnxywRjJuHfPnv8AR0EtvRTwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012019e3e37af56bdfdb43dec37835afdbe7c72c118c9b877cf9eff0047412dbd14f0a",
+      "host": "keybase.io",
+      "kid": "012019e3e37af56bdfdb43dec37835afdbe7c72c118c9b877cf9eff0047412dbd14f0a",
+      "uid": "3dac1c7d4e83e24f1a88f96f451c3719",
+      "username": "mamay"
+    },
+    "merkle_root": {
+      "ctime": 1544725041,
+      "hash": "ddaea2d1fec4d2232002d732970bdb74b592f909a1fc3cc726ca342728795b1072d693b949f422d2dddbf2236e3d51bf9c1a02d606f101608b329480dec6a9d4",
+      "hash_meta": "85b97a5505586cad8e9176df63812704e583b8a8c3c4e6cd76c6e0a3b269f861",
+      "seqno": 4130318
+    },
+    "service": {
+      "entropy": "f/CI818c5xbb0EErQ0EprbvQ",
+      "hostname": "alexander.mamay.su",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.10.1"
+  },
+  "ctime": 1544725472,
+  "expire_in": 504576000,
+  "prev": "1d4c4e309362f026428945d0825bf9a243a5bd0f02bfdef26f27ef05087a091d",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgGePjevVr39tD3sN4Na/b58csEYybh3z57/AEdBLb0U8Kp3BheWxvYWTESpcCBsQgHUxOMJNi8CZCiUXQglv5okOlvQ8Cv97ybyfvBQh6CR3EIJOtzhZlGCCxfIsf+uv/nEF4EdHBEwprT2kJr9Lyyv0nAgHCo3NpZ8RACw2OvAG6rzVBqD77agHtVzINXP4MP12+vYhUuP8fejqYCqkoI/mmi8MRAVMLLLUD34Su2IrfIPX+PSQ/Uu3aCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKbTIA6Ny51YRej5O1e7iIlU8U0EFmJjvNIfW/msOhuSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mamay
